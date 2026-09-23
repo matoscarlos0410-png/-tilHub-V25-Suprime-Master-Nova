@@ -1,0 +1,30 @@
+{
+  "name": "ÚtilHub V25",
+  "short_name": "ÚtilHub",
+  "description": "ÚtilHub V25: herramientas útiles, productividad, conversiones y NOVA FLOW como sistema de animaciones globales.",
+  "lang": "es-PE",
+  "dir": "ltr",
+
+  "start_url": "./index.html",
+  "scope": "./",
+
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+
+  "orientation": "any",
+
+  "background_color": "#050914",
+  "theme_color": "#07111f",
+
+  "categories": [
+    "utilities",
+    "productivity",
+    "education"
+  ],
+
+  "prefer_related_applications": false
+}
